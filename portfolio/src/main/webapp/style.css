@@ -1,9 +1,24 @@
-#content {
+#intro {
   margin-left: auto;
   margin-right: auto;
   width: 650px;
 }
 
+
+
 #greeting-container {
   margin-top: 20px;
+}
+
+#photosofme {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#footer {
+  clear: both;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }

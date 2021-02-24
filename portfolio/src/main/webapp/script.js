@@ -15,9 +15,10 @@
 /**
  * Adds a random greeting to the page.
  */
-function addRandomGreeting() {
+function addRandomQuote() {
   const greetings =
-      ['Hello world!', '¡Hola Mundo!', '你好，世界！', 'Bonjour le monde!'];
+      ['nope u are nitpicking and biased i win bye bye', 'No matter what, you got to keep finding somethings to fight for',
+       'deja vu!!!!', 'hmm I mean I guess', 'I do not know yet but I can Google it', 'GHOST NOOOOOO' ];
 
   // Pick a random greeting.
   const greeting = greetings[Math.floor(Math.random() * greetings.length)];
