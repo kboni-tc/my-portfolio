@@ -17,8 +17,7 @@
  */
 function addRandomQuote() {
   const greetings =
-      ['nope u are nitpicking and biased i win bye bye', 'No matter what, you got to keep finding somethings to fight for',
-       'deja vu!!!!', 'hmm I mean I guess', 'I do not know yet but I can Google it', 'GHOST NOOOOOO' ];
+      ['hola', 'hello', 'hey'];
 
   // Pick a random greeting.
   const greeting = greetings[Math.floor(Math.random() * greetings.length)];
